@@ -85,7 +85,6 @@ int main(){
 	const char INSTRUCTIONS[] = "q - exit   f - create point   d - delete point   j - up   k - down   h - left   l - right";
 
 	//variables
-	int num_lines = 0;
 	int num_points = 0;
 	char user_input = ' ';
 	//1D arrays
